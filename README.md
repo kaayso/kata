@@ -1,6 +1,6 @@
 ## Kata from https://www.codewars.com/kata/
 
-### Encrypt-this
+### Encrypt-this (6kyu)
 
 You want to create secret messages which can be deciphered by the Decipher this! kata. Here are the conditions:
 
